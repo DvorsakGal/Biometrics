@@ -1,5 +1,6 @@
 # Virtual Environments
-venv/
+biometrics_venv/
+biometrics_venv
 env/
 .venv/
 __pycache__/
